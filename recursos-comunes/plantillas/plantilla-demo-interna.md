@@ -1,5 +1,5 @@
-[00-05 min]  Bienvenida, quién presenta hoy
-[05-20 min]  Demo del proyecto principal (funciona o no funciona — ambos son válidos)
-[20-30 min]  Demo de proyecto secundario o avance individual
-[30-40 min]  Retroalimentación abierta — ¿qué traba? ¿qué sigue?
-[40-45 min]  Definir entregable concreto para el próximo mes
+- [00-05 min]  Bienvenida, quién presenta hoy
+- [05-20 min]  Demo del proyecto principal (funciona o no funciona — ambos son válidos)
+- [20-30 min]  Demo de proyecto secundario o avance individual
+- [30-40 min]  Retroalimentación abierta — ¿qué traba? ¿qué sigue?
+- [40-45 min]  Definir entregable concreto para el próximo mes
