@@ -5,7 +5,7 @@
 
 ## I. DATOS GENERALES
 
-|----------------------|----------------------|
+
 | **Nombre del Club** | [Nombre oficial del club] |
 | **Institución** | [Nombre de la universidad / escuela] |
 | **Carrera** | Ingeniería Mecatrónica |
