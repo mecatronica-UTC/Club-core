@@ -7,11 +7,11 @@
 
 | Organización del club |  | 
 |-----------------------|-----------------------|
-| **Nombre del Club** | [Nombre oficial del club] |
-| **Institución** | [Nombre de la universidad / escuela] |
+| **Nombre del Club** | Club de robótica-UTC |
+| **Institución** | Universidad Tecnológica de Corregidora |
 | **Carrera** | Ingeniería Mecatrónica |
-| **Fecha de constitución** | [DD/MM/AAAA] |
-| **Lugar** | [Ciudad, Estado] |
+| **Fecha de constitución** |  |
+| **Lugar** | Corregidora, Querétaro |
 | **Versión del acta** | 1.0 |
 
 ---
