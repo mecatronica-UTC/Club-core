@@ -18,16 +18,16 @@
 
 ## II. MISIÓN Y VISIÓN
 ### Misión
-[Describir en 2-3 oraciones el propósito del club: qué hace, para quién, y cómo. Ejemplo: Desarrollar proyectos de robótica y sistemas embebidos que fortalezcan las competencias técnicas de los estudiantes de mecatrónica, promoviendo la colaboración, la documentación y la participación en competencias nacionales e internacionales.]
+Desarrollar proyectos de robótica y sistemas embebidos que fortalezcan las competencias técnicas de los estudiantes de mecatrónica, promoviendo la colaboración, la documentación y la participación en competencias nacionales e internacionales.
 
 ### Visión
-[Describir a dónde quiere llegar el club en 3-5 años. Ejemplo: Ser el referente estudiantil de mecatrónica aplicada en la región, con proyectos publicados, participación en al menos dos competencias anuales y un laboratorio propio gestionado por estudiantes.]
+Ser el referente estudiantil de mecatrónica aplicada en la región, con proyectos publicados, participación en al menos dos competencias anuales y un laboratorio propio gestionado por estudiantes.
 
 ---
 
 ## III. OBJETIVOS
 ### Objetivo general
-[Redactar un objetivo que englobe la razón de ser del club. Ejemplo: Fomentar el desarrollo técnico y profesional de los estudiantes de mecatrónica mediante la creación de proyectos colaborativos, la participación en competencias y la generación de conocimiento documentado y replicable.]
+Fomentar el desarrollo técnico y profesional de los estudiantes de mecatrónica mediante la creación de proyectos colaborativos, la participación en competencias y la generación de conocimiento documentado y replicable.
 
 ### Objetivos específicos
 - Diseñar, desarrollar y documentar al menos un proyecto técnico por semestre.
