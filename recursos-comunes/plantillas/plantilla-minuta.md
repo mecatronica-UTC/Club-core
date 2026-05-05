@@ -1,6 +1,7 @@
 # Minuta - [Fecha]
 
 ** Asistentes: ** [Lista] 
+
 ** Duración: ** [ min]
 
 ## ¿Qué acordamos hacer desde la última reunión? (Revisión)
